@@ -1,0 +1,15 @@
+C:\Users\carmo\OneDrive\Documentos\temp\vinico\-cli\dotDevTool\bin\Debug\net7.0\dotDevTool.exe
+C:\Users\carmo\OneDrive\Documentos\temp\vinico\-cli\dotDevTool\bin\Debug\net7.0\dotDevTool.deps.json
+C:\Users\carmo\OneDrive\Documentos\temp\vinico\-cli\dotDevTool\bin\Debug\net7.0\dotDevTool.runtimeconfig.json
+C:\Users\carmo\OneDrive\Documentos\temp\vinico\-cli\dotDevTool\bin\Debug\net7.0\dotDevTool.dll
+C:\Users\carmo\OneDrive\Documentos\temp\vinico\-cli\dotDevTool\bin\Debug\net7.0\dotDevTool.pdb
+C:\Users\carmo\OneDrive\Documentos\temp\vinico\-cli\dotDevTool\obj\Debug\net7.0\dotDevTool.csproj.AssemblyReference.cache
+C:\Users\carmo\OneDrive\Documentos\temp\vinico\-cli\dotDevTool\obj\Debug\net7.0\dotDevTool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carmo\OneDrive\Documentos\temp\vinico\-cli\dotDevTool\obj\Debug\net7.0\dotDevTool.AssemblyInfoInputs.cache
+C:\Users\carmo\OneDrive\Documentos\temp\vinico\-cli\dotDevTool\obj\Debug\net7.0\dotDevTool.AssemblyInfo.cs
+C:\Users\carmo\OneDrive\Documentos\temp\vinico\-cli\dotDevTool\obj\Debug\net7.0\dotDevTool.csproj.CoreCompileInputs.cache
+C:\Users\carmo\OneDrive\Documentos\temp\vinico\-cli\dotDevTool\obj\Debug\net7.0\dotDevTool.dll
+C:\Users\carmo\OneDrive\Documentos\temp\vinico\-cli\dotDevTool\obj\Debug\net7.0\refint\dotDevTool.dll
+C:\Users\carmo\OneDrive\Documentos\temp\vinico\-cli\dotDevTool\obj\Debug\net7.0\dotDevTool.pdb
+C:\Users\carmo\OneDrive\Documentos\temp\vinico\-cli\dotDevTool\obj\Debug\net7.0\dotDevTool.genruntimeconfig.cache
+C:\Users\carmo\OneDrive\Documentos\temp\vinico\-cli\dotDevTool\obj\Debug\net7.0\ref\dotDevTool.dll
