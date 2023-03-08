@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\carmo\\OneDrive\\Documentos\\temp\\vinico\\-cli\\dotDevTool\\dotDevTool.csproj": {}
+    "C:\\Users\\carmo\\OneDrive\\Documentos\\Development\\ERP_Agrosure\\dotDevTool\\dotDevTool.csproj": {}
   },
   "projects": {
-    "C:\\Users\\carmo\\OneDrive\\Documentos\\temp\\vinico\\-cli\\dotDevTool\\dotDevTool.csproj": {
+    "C:\\Users\\carmo\\OneDrive\\Documentos\\Development\\ERP_Agrosure\\dotDevTool\\dotDevTool.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\carmo\\OneDrive\\Documentos\\temp\\vinico\\-cli\\dotDevTool\\dotDevTool.csproj",
+        "projectUniqueName": "C:\\Users\\carmo\\OneDrive\\Documentos\\Development\\ERP_Agrosure\\dotDevTool\\dotDevTool.csproj",
         "projectName": "dotDevTool",
-        "projectPath": "C:\\Users\\carmo\\OneDrive\\Documentos\\temp\\vinico\\-cli\\dotDevTool\\dotDevTool.csproj",
+        "projectPath": "C:\\Users\\carmo\\OneDrive\\Documentos\\Development\\ERP_Agrosure\\dotDevTool\\dotDevTool.csproj",
         "packagesPath": "C:\\Users\\carmo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\carmo\\OneDrive\\Documentos\\temp\\vinico\\-cli\\dotDevTool\\obj\\",
+        "outputPath": "C:\\Users\\carmo\\OneDrive\\Documentos\\Development\\ERP_Agrosure\\dotDevTool\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\carmo\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -37,6 +37,12 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "System.CommandLine": {
+              "target": "Package",
+              "version": "[2.0.0-beta4.22272.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
