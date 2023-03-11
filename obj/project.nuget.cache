@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ffgCVlm4OkS43xp0sN7yaCruvQ/XfT6LRdviVWA278NhvcV40eofPBgbAmPKpMSNUvtyFtr/GfLuPWlynsZGTA==",
+  "dgSpecHash": "COWVDMHgPA/6hKSYoBkTp5OcjotPB4cNlZ+sHs6/o8lEmWkuqh7f8GIAo8O9/ptSnzjy9hj3Afau3144jwPEJQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\carmo\\OneDrive\\Documentos\\Development\\ERP_Agrosure\\dotDevTool\\dotDevTool.csproj",
+  "projectFilePath": "C:\\Users\\carmo\\Meu Drive\\Development\\Projects\\Project - dotDevTool\\dotDevTool\\dotDevTool.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\carmo\\.nuget\\packages\\system.commandline\\2.0.0-beta4.22272.1\\system.commandline.2.0.0-beta4.22272.1.nupkg.sha512"
   ],

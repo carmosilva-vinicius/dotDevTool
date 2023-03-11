@@ -2,6 +2,7 @@
 using dotDevTool.src.Commands;
 using dotDevTool.src.Models;
 using dotDevTool.src.Models.types;
+using dotDevTool.src.Services;
 
 namespace DotDevTool
 {
@@ -9,7 +10,7 @@ namespace DotDevTool
     {
         static async Task<int> Main(string[] args)
         {
-
+            Console.WriteLine($"Directory: {Directory.GetCurrentDirectory()}");
             ProjectConfig projectConfig = new ProjectConfig();
             Database db;
 
@@ -27,31 +28,43 @@ namespace DotDevTool
             rootCommand.AddOption(projectName);
             rootCommand.AddOption(database);
 
-            rootCommand.SetHandler((name, database) =>
-                {   
-                    projectConfig.ProjectName = name;
-                    Enum.TryParse<Database>(database, out db);
-                    projectConfig.Database = db;
+            rootCommand.SetHandler(async (name, database) =>
+                {
+                    projectConfig.ProjectName = name ?? "MeuProjeto";
 
-                    Console.WriteLine($"Projeto: {projectConfig.ProjectName ?? "MeuProjeto"}");
-                    Console.WriteLine($"Database: {projectConfig.Database}");
+                    if (database == null)
+                    {
+                        projectConfig.Database = null;
+                    }
+                    else
+                    {
+                        if (Enum.TryParse<Database>(database, true, out db))
+                        {
+                            projectConfig.Database = db;
+                        }
+                        else { Console.WriteLine($"Banco de dados não encontrado, selecione uma opção valida"); }
+                    }
+
+                    Console.WriteLine($@"Start Creating a project:
+                        Nome: {projectConfig.ProjectName}
+                        Database: {projectConfig.Database}
+                    ");
+
+                    ProjectCreator projectCreator = new ProjectCreator(projectConfig.ProjectName);
+                    DependencyService dependencyService = new DependencyService(projectConfig.Database);
+                    DockerService dockerService = new DockerService(projectConfig);
+
+                    await projectCreator.createAsync();
+                    await dependencyService.addPackagesAsync();
+                    dependencyService.includeDbConnection();
+                    dockerService.createDockerFile();
+                    dockerService.createDockerCompose();
+
+                    await projectCreator.runProject();
                 },
                 projectName, database);
+
             return await rootCommand.InvokeAsync(args);
-
-            // string projectName = args[0];
-
-            // ProjectCreator projectCreator = new ProjectCreator(projectName);
-            // DependencyManager dependencyManager = new DependencyManager();
-            // DockerConfiguration dockerConfiguration = new DockerConfiguration(projectName);
-
-            // await projectCreator.createAsync();
-            // await dependencyManager.addPackagesAsync();
-            // dependencyManager.includeDbConnection();
-            // dockerConfiguration.createDockerFile();
-            // dockerConfiguration.createDockerCompose();
-
-            // await projectCreator.runProject();
         }
     }
 }

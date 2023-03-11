@@ -2,9 +2,10 @@ namespace dotDevTool.src.Models.types
 {
     public enum Database
     {
+        NODB,
         POSTGRESQL,
         MYSQL,
-        SQLSERVER,
+        //todo SQLSERVER,
         MONGO
     }
 }

@@ -43,3 +43,33 @@ C:\Users\carmo\OneDrive\Documentos\Development\ERP_Agrosure\dotDevTool\obj\Debug
 C:\Users\carmo\OneDrive\Documentos\Development\ERP_Agrosure\dotDevTool\obj\Debug\net7.0\dotDevTool.pdb
 C:\Users\carmo\OneDrive\Documentos\Development\ERP_Agrosure\dotDevTool\obj\Debug\net7.0\dotDevTool.genruntimeconfig.cache
 C:\Users\carmo\OneDrive\Documentos\Development\ERP_Agrosure\dotDevTool\obj\Debug\net7.0\ref\dotDevTool.dll
+C:\Users\carmo\Meu Drive\Development\Projects\Project - dotDevTool\dotDevTool\bin\Debug\net7.0\dotDevTool.exe
+C:\Users\carmo\Meu Drive\Development\Projects\Project - dotDevTool\dotDevTool\bin\Debug\net7.0\dotDevTool.deps.json
+C:\Users\carmo\Meu Drive\Development\Projects\Project - dotDevTool\dotDevTool\bin\Debug\net7.0\dotDevTool.runtimeconfig.json
+C:\Users\carmo\Meu Drive\Development\Projects\Project - dotDevTool\dotDevTool\bin\Debug\net7.0\dotDevTool.dll
+C:\Users\carmo\Meu Drive\Development\Projects\Project - dotDevTool\dotDevTool\bin\Debug\net7.0\dotDevTool.pdb
+C:\Users\carmo\Meu Drive\Development\Projects\Project - dotDevTool\dotDevTool\bin\Debug\net7.0\System.CommandLine.dll
+C:\Users\carmo\Meu Drive\Development\Projects\Project - dotDevTool\dotDevTool\bin\Debug\net7.0\cs\System.CommandLine.resources.dll
+C:\Users\carmo\Meu Drive\Development\Projects\Project - dotDevTool\dotDevTool\bin\Debug\net7.0\de\System.CommandLine.resources.dll
+C:\Users\carmo\Meu Drive\Development\Projects\Project - dotDevTool\dotDevTool\bin\Debug\net7.0\es\System.CommandLine.resources.dll
+C:\Users\carmo\Meu Drive\Development\Projects\Project - dotDevTool\dotDevTool\bin\Debug\net7.0\fr\System.CommandLine.resources.dll
+C:\Users\carmo\Meu Drive\Development\Projects\Project - dotDevTool\dotDevTool\bin\Debug\net7.0\it\System.CommandLine.resources.dll
+C:\Users\carmo\Meu Drive\Development\Projects\Project - dotDevTool\dotDevTool\bin\Debug\net7.0\ja\System.CommandLine.resources.dll
+C:\Users\carmo\Meu Drive\Development\Projects\Project - dotDevTool\dotDevTool\bin\Debug\net7.0\ko\System.CommandLine.resources.dll
+C:\Users\carmo\Meu Drive\Development\Projects\Project - dotDevTool\dotDevTool\bin\Debug\net7.0\pl\System.CommandLine.resources.dll
+C:\Users\carmo\Meu Drive\Development\Projects\Project - dotDevTool\dotDevTool\bin\Debug\net7.0\pt-BR\System.CommandLine.resources.dll
+C:\Users\carmo\Meu Drive\Development\Projects\Project - dotDevTool\dotDevTool\bin\Debug\net7.0\ru\System.CommandLine.resources.dll
+C:\Users\carmo\Meu Drive\Development\Projects\Project - dotDevTool\dotDevTool\bin\Debug\net7.0\tr\System.CommandLine.resources.dll
+C:\Users\carmo\Meu Drive\Development\Projects\Project - dotDevTool\dotDevTool\bin\Debug\net7.0\zh-Hans\System.CommandLine.resources.dll
+C:\Users\carmo\Meu Drive\Development\Projects\Project - dotDevTool\dotDevTool\bin\Debug\net7.0\zh-Hant\System.CommandLine.resources.dll
+C:\Users\carmo\Meu Drive\Development\Projects\Project - dotDevTool\dotDevTool\obj\Debug\net7.0\dotDevTool.csproj.AssemblyReference.cache
+C:\Users\carmo\Meu Drive\Development\Projects\Project - dotDevTool\dotDevTool\obj\Debug\net7.0\dotDevTool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carmo\Meu Drive\Development\Projects\Project - dotDevTool\dotDevTool\obj\Debug\net7.0\dotDevTool.AssemblyInfoInputs.cache
+C:\Users\carmo\Meu Drive\Development\Projects\Project - dotDevTool\dotDevTool\obj\Debug\net7.0\dotDevTool.AssemblyInfo.cs
+C:\Users\carmo\Meu Drive\Development\Projects\Project - dotDevTool\dotDevTool\obj\Debug\net7.0\dotDevTool.csproj.CoreCompileInputs.cache
+C:\Users\carmo\Meu Drive\Development\Projects\Project - dotDevTool\dotDevTool\obj\Debug\net7.0\dotDevTool.csproj.CopyComplete
+C:\Users\carmo\Meu Drive\Development\Projects\Project - dotDevTool\dotDevTool\obj\Debug\net7.0\dotDevTool.dll
+C:\Users\carmo\Meu Drive\Development\Projects\Project - dotDevTool\dotDevTool\obj\Debug\net7.0\refint\dotDevTool.dll
+C:\Users\carmo\Meu Drive\Development\Projects\Project - dotDevTool\dotDevTool\obj\Debug\net7.0\dotDevTool.pdb
+C:\Users\carmo\Meu Drive\Development\Projects\Project - dotDevTool\dotDevTool\obj\Debug\net7.0\dotDevTool.genruntimeconfig.cache
+C:\Users\carmo\Meu Drive\Development\Projects\Project - dotDevTool\dotDevTool\obj\Debug\net7.0\ref\dotDevTool.dll

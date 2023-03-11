@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\carmo\\OneDrive\\Documentos\\Development\\ERP_Agrosure\\dotDevTool\\dotDevTool.csproj": {}
+    "C:\\Users\\carmo\\Meu Drive\\Development\\Projects\\Project - dotDevTool\\dotDevTool\\dotDevTool.csproj": {}
   },
   "projects": {
-    "C:\\Users\\carmo\\OneDrive\\Documentos\\Development\\ERP_Agrosure\\dotDevTool\\dotDevTool.csproj": {
+    "C:\\Users\\carmo\\Meu Drive\\Development\\Projects\\Project - dotDevTool\\dotDevTool\\dotDevTool.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\carmo\\OneDrive\\Documentos\\Development\\ERP_Agrosure\\dotDevTool\\dotDevTool.csproj",
+        "projectUniqueName": "C:\\Users\\carmo\\Meu Drive\\Development\\Projects\\Project - dotDevTool\\dotDevTool\\dotDevTool.csproj",
         "projectName": "dotDevTool",
-        "projectPath": "C:\\Users\\carmo\\OneDrive\\Documentos\\Development\\ERP_Agrosure\\dotDevTool\\dotDevTool.csproj",
+        "projectPath": "C:\\Users\\carmo\\Meu Drive\\Development\\Projects\\Project - dotDevTool\\dotDevTool\\dotDevTool.csproj",
         "packagesPath": "C:\\Users\\carmo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\carmo\\OneDrive\\Documentos\\Development\\ERP_Agrosure\\dotDevTool\\obj\\",
+        "outputPath": "C:\\Users\\carmo\\Meu Drive\\Development\\Projects\\Project - dotDevTool\\dotDevTool\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\carmo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\carmo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -59,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
